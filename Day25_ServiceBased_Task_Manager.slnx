@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Day25_ServiceBased_Task_Manager/Day25_ServiceBased_Task_Manager.csproj" />
+  <Project Path="TaskManager.Tests/TaskManager.Tests.csproj" Id="b1c9502b-38dc-46d7-97c7-4efe0c9e70d3" />
+</Solution>
